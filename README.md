@@ -1,4 +1,4 @@
-### Hi there 👋
+### Print("Olá mundo")
 
 <!--
 **mateus17bk/mateus17bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
