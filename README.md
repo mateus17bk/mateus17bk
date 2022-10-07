@@ -1,9 +1,8 @@
 ## Print("Olá mundo 🌎")
 
 - 🔭 Atualmente estou trabalhando como Analista NOC
-- 🌱 Atualmente estou aprendendo cultura DevOps
-- ⚡ Procuro colaborar com minhas skills para conseguir solucionar as task
-
+- 🌱 Estou aprendendo cultura DevOps
+- ⚡ Procuro colaborar com minhas skills, para conseguir solucionar as task e as challenge desse imenso universo de cloud 
 
 <div align="center">
   <a href="https://github.com/mateus17bk">
