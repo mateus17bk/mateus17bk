@@ -1,8 +1,8 @@
 Print("Olá mundo 🌎")
 
 - 🔭 Atualmente estou trabalhando como Analista NOC
-- 🌱 I’m currently learning ...
-- ⚡ I’m looking to collaborate on ...
+- 🌱 Atualmente estou aprendendo cultura DevOps
+- ⚡ Procuro colaborar com minhas skills para conseguir solucionar as task
 
 
 
