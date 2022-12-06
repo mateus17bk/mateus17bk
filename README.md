@@ -1,7 +1,7 @@
 ## Print("Olá mundo 🌎")
 
 - 🔭 Atualmente estou trabalhando como Analista NOC
-- 🌱 Estou aprendendo cultura DevOps
+- 🌱 Estou aprendendo culta DevOps e teste de QA Software
 - ⚡ Procuro colaborar com minhas skills, para conseguir solucionar as task e as challenge desse imenso universo de cloud 
 
 <div align="center">
