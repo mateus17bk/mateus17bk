@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 Atualmente trabalho como **Analista de Suporte Jr**, atuando com monitoramento, incidentes críticos e automações
-- 🌱 Estou aprendendo cultura **DevOps** e **testes de QA de Software**
+- 🌱 Estou aprendendo cultura **DevOps** e **Analise de dados**
 - 🛠️ Gosto de transformar problemas do dia a dia em scripts e automações (Python, Playwright, Ansible)
 - ⚡ Procuro colaborar com minhas skills para resolver tasks e challenges nesse imenso universo de cloud
 - 📫 Me encontre no LinkedIn ou por e-mail (links abaixo)
