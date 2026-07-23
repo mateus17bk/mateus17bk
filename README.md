@@ -1,6 +1,6 @@
 <h1 align="center">Olá, mundo! 👋 Sou o Mateus</h1>
 
-<h3 align="center">Analista de Suporte Jr | Trilhando o caminho para DevOps & QA</h3>
+<h3 align="center">Analista de Suporte Jr | Trilhando o caminho para DevOps & Analise de dados</h3>
 
 <p align="center">
   <code>print("Olá mundo 🌎")</code>
